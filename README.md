@@ -10,6 +10,6 @@ University Library Management System
     
   </tr>
   <tr>
-  <td><img src="https://github.com/JaberBabaki/Library-Management-System/blob/master/LIbrariyUni/Res/2.jpg" width="100" height="400" /></td>
+  <td><img src="https://github.com/JaberBabaki/Library-Management-System/blob/master/LIbrariyUni/Res/2.jpg" width="200" height="400" /></td>
   </tr>
 </table>
